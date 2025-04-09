@@ -1,7 +1,8 @@
 # React + Vite
 
 
-live site link: [dragon-news-bayzid.surge.sh](https://dragon-news-8f1c6a.netlify.app/category/01)
+live site link: [dragon-news-bayzid.surge.sh]
+(https://dragon-news-8f1c6a.netlify.app/category/01)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
